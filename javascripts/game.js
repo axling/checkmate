@@ -939,7 +939,7 @@ $(document).ready(function() {
 	initialize: function() {
 	    Scene.apply(this);
 	    
-	    var label = new Label("Check And Mate");
+	    var label = new Label("Check Mate");
 	    label.x = 50;
 	    label.y = 100;
 	    label.width = 500;
